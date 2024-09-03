@@ -18,7 +18,11 @@ coverY: 0
 
 ***
 
-### 聯絡我們
+### 各種連結
 
-支援伺服器｜[https://discord.gg/gq5sfmttWW](https://discord.com/invite/gq5sfmttWW)\
+豆腐貓咪網頁｜[https://tofucat.bruh0422.xyz](https://tofucat.bruh0422.xyz)\
+機器人使用說明｜[https://tofucat-docs.bruh0422.xyz](https://tofucat-docs.bruh0422.xyz)\
+Status Page｜[https://status.bruh0422.xyz](https://status.bruh0422.xyz)\
+邀請機器人｜[https://tofucat.bruh0422.xyz/invite](https://tofucat.bruh0422.xyz/invite)\
+支援伺服器｜[https://tofucat.bruh0422.xyz/support](https://tofucat.bruh0422.xyz/support)\
 電子郵件｜[support@tofucat.bruh0422.xyz](mailto:support@tofucat.bruh0422.xyz)
