@@ -25,6 +25,7 @@
 * [🎵 音樂](music/README.md)
   * [加入語音頻道](music/connect.md)
   * [離開語音頻道](music/disconnect.md)
+  * [顯示節點資訊](music/node.md)
   * [顯示目前播放資訊](music/nowplaying.md)
   * [播放音樂](music/play.md)
   * [暫停/繼續播放音樂](music/pause.md)
